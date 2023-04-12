@@ -1,4 +1,4 @@
-import {sayMyName} from "./name.js";
+import { sayMyName } from "./name.js";
 
 /*
   • Note that index.js is importing name.js.
