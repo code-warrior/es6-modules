@@ -1,14 +1,10 @@
 {
-  "name": "es6-examples",
+  "name": "es6-modules",
   "version": "1.0.0",
-  "description": "A Gulp template for refreshing the browser on changes to JS and HTML files.",
+  "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/code-warrior/es6--the-javascript-weve-been-waiting-decades-for"
   },
   "author": "Roy Vanegas",
   "license": "ISC",
